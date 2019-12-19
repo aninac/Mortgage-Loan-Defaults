@@ -13,13 +13,13 @@ The data files are split between two types of text files, acquisition and perfor
 
 <h3>Methodology</h3>
 
-Step 1: Data Wrangling
+Step 1: Data Wrangling - Imported .txt files and merge into one DataFrame, converted datatypes as required, and filled missing values/dropped rows.
 
-Step 2: Inferential Statistics
+Step 2: Exploratory Data Analysis - Visualized data with charts and graphs to uncover insights about the datasets.
 
-Step 3: Exploratory Data Analysis
+Step 3: Inferential Statistics - Used random sampling to test null hypothesis that there is no difference in credit scores between borrowers who defaulted and those who did not default.
 
-Step 4: Machine Learning
+Step 4: Machine Learning - Created a model to predict mortgage applicants whose loans will default.
 
 <h3>Results</h3>
 <p> </p>
