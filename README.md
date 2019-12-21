@@ -21,8 +21,5 @@ Step 3: Inferential Statistics - Used random sampling to test null hypothesis th
 
 Step 4: Machine Learning - Created a model to predict mortgage applicants whose loans will default.
 
-<h3>Results</h3>
-<p> </p>
-
 <h3>Repository Contents</h3>
 <p> </p>
