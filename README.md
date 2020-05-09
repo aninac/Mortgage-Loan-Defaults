@@ -1,4 +1,4 @@
-# Mortgage Loan Defaults
+# Predicting Mortgage Foreclosures
 
 <h3>Problem Statement</h3>
 <p>This project focuses on developing a mortgage loan default prediction model based on the Fannie Mae dataset. When a potential borrower seeks a new mortgage, the model will either categorize the loan as a likely default or non-default based on several variables to be determined by the model.</p>
