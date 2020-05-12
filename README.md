@@ -21,5 +21,3 @@ Step 3: Inferential Statistics - Used random sampling to test the null hypothesi
 
 Step 4: Machine Learning - Created a model to predict mortgage applicants whose loans will default.
 
-<h3>Repository Contents</h3>
-<p>Final project results are in the 08 Prediction of Home Foreclosure.docx, 08 Prediction of Home Foreclosure Slides.pptx and 08 Prediction Code.py files. All other files are supporting documents in order of completion.</p>
